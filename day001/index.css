@@ -1,0 +1,12 @@
+body {
+  background: #ff3
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#scene {
+  width: 100%;
+  height: calc(100% - 100px);
+}
