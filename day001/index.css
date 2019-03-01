@@ -5,6 +5,11 @@ body {
   margin: 0;
   padding: 0;
 }
+/* 
+ * fixme
+ * 当这个高度是100%的时候会出现滚动条
+ * 必须要canvas的高度比sapper的高度低4px的时候才能正常显示
+ */
 
 #scene {
   width: 100%;
